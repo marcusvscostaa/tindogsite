@@ -13,6 +13,9 @@ body h1, h2, h3, h4, h5, h6{
     font-size: 3.5rem;
     line-height: 1.5;
 }
+#title .big-heading{
+    text-align: left;
+}
 .h3config{
     font-size: 1.5rem;
     font-weight: bold;
@@ -148,7 +151,7 @@ div.card-select-body{
         margin-top: 5%;
        
     }
-    #title{  
+    #title .big-heading{  
         text-align: center;
     }
     #title h1{
